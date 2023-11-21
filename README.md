@@ -16,13 +16,17 @@ Ensure you have Python installed on your machine. You can download it from [pyth
 ## Install the required Python libraries:
 
 #pip install pyttsx3
+
 #pip install speechRecognition
-pip install wikipedia
+
+#pip install wikipedia
 
 ## Acknowledgements
 
 SpeechRecognition
+
 pyttsx3
+
 Wikipedia
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
